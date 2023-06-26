@@ -35,7 +35,7 @@ const WorkExperience = (props: Props) => {
       className="h-screen flex flex-col relative overflow-hidden items-center justify-evenly 
      text-left md:flex-row max-w-full mx-auto"
     >
-      <h3 className="absolute top-10 sm:top-20 uppercase tracking-[20px] text-gray-500 text-2xl z-20">
+      <h3 className="absolute top-10 sm:top-13 uppercase tracking-[20px] text-gray-500 text-2xl z-20">
         Experience
       </h3>
 
